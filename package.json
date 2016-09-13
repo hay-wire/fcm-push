@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/nandarustam/fcm-push#readme",
   "dependencies": {
+    "debug": "^2.2.0",
+    "lodash": "^4.15.0",
     "retry": "^0.9.0"
   }
 }
